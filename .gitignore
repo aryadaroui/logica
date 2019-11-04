@@ -1,0 +1,43 @@
+*.bak
+*~
+*.swp
+.*.swp
+
+# python cache
+/__pycache__
+
+*.webloc
+*.WEBLOC
+*.DS_Store
+
+# audio files
+*.aif
+*.vscode
+
+# Executables and libraries
+*.o
+*.out
+*.exe
+*.EXE
+*.msi
+*.MSI
+*.lo
+*.slo
+*.so
+*.a
+*.la
+*.dmg
+*.DMG
+*.iso
+*.ISO
+*.img
+*.IMG
+core
+
+# Archives
+*.zip
+*.tar
+*.tgz
+*.jar
+*.class
+*.log
