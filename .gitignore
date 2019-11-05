@@ -12,7 +12,8 @@
 
 # audio files
 *.aif
-*.vscode
+*.m4a
+/.vscode
 
 # Executables and libraries
 *.o
