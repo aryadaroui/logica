@@ -1,10 +1,10 @@
 ## logica
-Logica is an amalgamation of different waveform editing effects I experiment with. The more basic, logic based effects are as follows:
+Logica is an amalgamation of different waveform editing effects I experiment with. The more logic based effects are as follows:
 
-| Effect                   | Logic   |
-| ------------------------ | ------- |
-| Normal                   | p ⟶ q   |
-| Inverse                  | q ⟶ p   |
+|          Effect          |  Logic  |
+| :----------------------: | :-----: |
+| Normal                   |  p ⟶ q  |
+| Inverse                  |  q ⟶ p  |
 | Converse                 | -p ⟶ -q |
 | Reverse (Contrapositive) | -q ⟶ -p |
 
