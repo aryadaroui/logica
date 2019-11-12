@@ -104,7 +104,7 @@ elif mode == '5':
 			outFile.writeframes(audioop.reverse(chunk, outFile.getsampwidth()))
 
 
-
 inFile.close()
 outFile.close()
+Clear()
 print("OUTPUT at " + outfilePath)
